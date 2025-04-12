@@ -1,2 +1,2 @@
 # Dungeon-Jump
-Un jeu simple et addictif par ZeBlakk
+Un jeu de plateforme simple et addictif, mieux que BlockBlast, par ZeBlakk
